@@ -1,4 +1,4 @@
-# Hi there, I'm Osman Hakan Yavuzyiğit 👋
+# Hi there, I'm Hakan Yavuzyiğit 👋
 
 **Full-Stack Developer | Systems Architect | DePIN & AI Infrastructure Builder**
 
