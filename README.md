@@ -1,14 +1,42 @@
-<h3 align="center">Back End Developer</h3>
+# Hi there, I'm Osman Hakan Yavuzyiğit 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohakan&label=Profile%20views&color=0e75b6&style=flat" alt="ohakan" /> </p>
+**Full-Stack Developer | Systems Architect | DePIN & AI Infrastructure Builder**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohakan" alt="ohakan" /></a> </p>
+I am a software developer passionate about building highly scalable backend systems, decentralized infrastructure networks (DePIN), and seamless cross-platform mobile applications. My core focus lies in designing architectures that handle high concurrency, low latency, and complex API integrations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hakanyavuzyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakanyavuzyigit" height="30" width="40" /></a>
-<a href="https://instagram.com/osmanhakaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osmanhakaan" height="30" width="40" /></a>
-</p>
+Currently, I'm heavily invested in the intersection of AI and Web3, building platforms that democratize hardware resources and AI inference capabilities.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 What I'm Building
+
+* **[Vortix Cloud](https://vortix.cloud):** A decentralized GPU network designed to aggregate idle compute resources globally. Built with high-performance node management and gRPC communication to handle rapid resource allocation.
+* **[HomeInfer](https://homeinfer.com):** An AI infrastructure platform enabling developers and organizations to seamlessly deploy and run Large Language Models (LLMs) and modern AI tools.
+* **RWA & FinTech Systems:** Actively developing highly secure, compliant backend engines for tokenizing Real-World Assets (RWA) and financial trading systems.
+
+### 💻 Tech Stack & Engineering Focus
+
+* **Backend & Infrastructure:** * **Go (Golang):** My go-to for heavy data processing, high-concurrency microservices, and fast gRPC communications.
+    * **Node.js:** For flexible API architectures, complex business logic, and rapid service integrations.
+* **Mobile & Frontend:**
+    * **Flutter:** Building cross-platform mobile applications with deep native component integrations (managing Gradle, CocoaPods, and hardware modules like NFC).
+* **Architecture & Workflow:**
+    * Designing distributed systems and optimizing API integrations.
+    * Leveraging advanced AI coding workflows (Claude Code, Cursor) for context engineering and optimal development efficiency.
+
+---
+
+### 🌱 Currently Exploring
+* Advanced concurrency patterns in Go.
+* Next-generation Web3 protocols and decentralized physical infrastructure networks.
+* Optimizing AI model inference times in distributed environments.
+
+### 📫 Let's Connect
+
+If you want to chat about decentralized networks, Go architectures, or collaborate on innovative AI infrastructure projects, feel free to reach out!
+
+* **Email:** osmanhakan54@gmail.com
+* **LinkedIn:** [Hakan Yavuzyigit](https://www.linkedin.com/in/hakanyavuzyigit/)
+
+---
+*"Building the infrastructure for the next generation of decentralized AI."*
